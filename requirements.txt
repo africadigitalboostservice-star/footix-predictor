@@ -3,3 +3,4 @@ uvicorn
 flask
 flask-cors
 requests
+pydantic
