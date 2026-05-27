@@ -1,1 +1,1 @@
-b: gunicorn football_predictor_production:app
+web: gunicorn football_predictor_production:app
