@@ -1,7 +1,0 @@
-# Configuration Footix AI Predictor
-# Clé API Football-Data.org configurée
-
-FOOTBALL_DATA_TOKEN=31bf5914800445ca8fb77f9802211103
-
-# Configuration du serveur
-PORT=8000
